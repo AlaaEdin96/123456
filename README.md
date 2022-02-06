@@ -9,7 +9,4 @@ A simple project to help immigrants
 - [laravel-livewire](https://laravel-livewire.com/).
 - laravel ui.
  
-�
-�#� �1�2�3�4�5�6�
-�
-�
+ 
